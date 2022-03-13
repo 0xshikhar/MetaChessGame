@@ -1,1 +1,1 @@
-# shatranj-server
+# MetaChess IPFS Server
