@@ -1,2 +1,2 @@
 # MetaChessGame
- A NFT based Mordern Chess Game
+ A NFT based Modern Chess Game
